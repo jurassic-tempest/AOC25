@@ -1,5 +1,4 @@
-using AOC;
-using AOC26;
+using AOC25;
 
 namespace AOC.Solutions {
     public class Day02 : IDay {

@@ -1,4 +1,4 @@
-namespace AOC26;
+namespace AOC25;
 
 public static class Utils
 {
