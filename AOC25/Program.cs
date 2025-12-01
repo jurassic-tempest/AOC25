@@ -11,11 +11,11 @@ class Program
         var solver = day switch
         {
             1 => new Day01(),
-            2 => new Day02(),
+            //2 => new Day02(),
             _ => throw new Exception("Day not implemented")
         };
 
         Console.WriteLine("Part 1: " + solver.Part1());
-        Console.WriteLine("Part 2: " + solver.Part2());
+        //Console.WriteLine("Part 2: " + solver.Part2());
     }
 }
